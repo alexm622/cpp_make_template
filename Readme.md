@@ -1,8 +1,6 @@
 # Makefile for MEDIUM Project
 
-## Language
-
-[English](../Readme.md) | [简体中文](./Doc/Readme-cn.md)
+## THIS WORK IS NOT MINE, I AM JUST COPYING IT OVER TO USE THE GITHUB TEMPLATE FEATURE
 
 ## Introduction
 
